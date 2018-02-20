@@ -1,0 +1,11 @@
+<suite name="LoginTestSuite" verbose="1" >
+
+	  <test name="LoginTest" >
+	    <classes>
+		     <class name="com.dice.LoginTest" >
+		     </class>
+		</classes>
+	  </test>
+	  
+	 
+</suite>
